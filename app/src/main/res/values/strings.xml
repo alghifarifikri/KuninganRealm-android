@@ -1,0 +1,169 @@
+<resources>
+    <string name="app_name">Kuningan Realm</string>
+
+    <!--MainActivity-->
+    <string name="appText">Welcome to Kuningan Realm</string>
+    <string name="Kuningan">Tentang Kuningan</string>
+    <string name="Konservasi">Konservasi Alam</string>
+    <string name="Seni">Seni Budaya</string>
+    <string name="Media">Audio</string>
+    <string name="About">About</string>
+    <string name="Search">Search Index</string>
+
+    <string name="text_desk1"><b>Dalam</b> sejarah Kabupaten Kuningan diputuskan bahwa hari jadi Kab Kuningan yaitu pada 1 September 1498 yang ditetapkan dengan Peraturan Daerah (Perda) Kabupaten Kuningan Nomor 21/Dp.003/XII/1978 tanggal 14 Desember 1978.
+        Tahun tersebut didasarkan pada tahun dimana Arya Kemuning diangkat menjadi Adipati yang memerintah Kuningan dibawah Kesultanan Cirebon.
+    </string>
+
+    <string name="text_desk2"><b>Letak Geografis</b> Kabupaten Kuningan terletak pada titik koordinat 108° 23 - 108° 47 Bujur Timur dan 6° 47 - 7° 12 Lintang Selatan.
+        Sedangkan ibu kotanya terletak pada titik koordinat 6° 45 - 7° 50 Lintang Selatan dan 105° 20 - 108° 40 Bujur Timur.
+    </string>
+
+    <!--Konservasi-->
+    <string name="Taman">Taman Nasional Gn. Ciremai</string>
+    <string name="Kebun">Kebun Raya Kuningan</string>
+    <string name="Tilu">Gunung Tilu</string>
+    <string name="Ciremai">Gunung Ciremai</string>
+
+    <!--TNGC-->
+    <string name="Florafauna">Flora dan Fauna</string>
+    <string name="Wisata">Wisata</string>
+
+    <string name="Sejarah">Sejarah</string>
+    <string name="Letak">Letak Geografis</string>
+
+    <string name="Flora">Flora</string>
+    <string name="Fauna">Fauna</string>
+
+    <string name="Jalur">Jalur Pendakian</string>
+
+    <string name="text_desk3"><b>Flora </b>di Hutan Gunung Ciremai memiliki 119 koleksi tumbuhan terdiri dari 40 koleksi anggrek dan 79 koleksi non-anggrek
+        termasuk koleksi tanaman hias yang menarik seperti Kantong semar (Nepenthaceae) dan Dadap Jingga (Erythrina sp).
+        Jenis-jenis anggrek yang mendominasi adalah jenis anggrek Vanda tricolor dan Eria sp,
+        sedangkan jenis anggrek terestial yang mendominasi adalah Calenthe triplicata, Macodes sp, Cymbidium sp dan Malaxis iridifolia.
+        Secara umum vegetasi hutan Gunung Ciremai didominasi keluarga Huru (Litsea spp), Mareme (Glochidion sp), Mara (Macaranga tanarius), Saninten (Castonopsis argentea.), Sereh Gunung(Cymbophogon sp), Hedychium sp. Ariasema sp. Dan Edelweis (Anaphalissp)(LIPI, 2001).</string>
+
+    <string name="text_desk4"><b>Fauna </b>yang berisikan Satwa langka di kawasan Gunung Ciremai, antara lain Macan Kumbang (Panthera pardus), Surili (Presbytis comata), dan Elang Jawa (Spyzaetus bartelsi).
+        Jenis satwa lainnya adalah Lutung (Presbytis cristata), Kijang (Muntiacus muntjak), Kera Ekor Panjang (Macaca fascicularis), Ular Sanca (Phyton molurus), Meong Congkok (Felis bengalensis), Elang Hitam (Ictinaetus malayensis), Ekek Kiling (Cissa thalassina), Sepah Madu (Perictorus miniatus), Walik (Ptilinopuscinctus), Anis (Zoothera citrina) dan berbagai jenis burung berkicau lainnya.
+        Di kawasan TNGC juga terdapat 20 jenis burung sebaran terbatas yang di dalamnya terdapat 2 jenis burung terancam punah yaitu Cica Matahari (Crocias albonotatus) dan Poksai Kuda (Garrulax rufrifons) serta 2 jenis burung status rentan yaitu Ciung Mungkal Jawa (Cochoa azurea) dan Celepuk Jawa (Otus angelinae) sehingga kawasan TNGC menjadi daerah penting untuk burung ( Important Bird Area ) dengan kode JID024 (Bird Life International Indonesia tahun 1998).</string>
+
+    <!--Wisata-->
+    <string name="Pendakian">Jalur Pendakian</string>
+    <string name="Alam">Wisata Alam</string>
+    <string name="Budaya">Wisata Budaya</string>
+    <string name="Pendidikan">Wisata Pendidikan</string>
+
+    <string name="text_desk5"><b>Sebagai </b>gunung tertinggi di Jawa Barat, Gunung Ciremai merupakan salah satu tujuan utama pendakian generasi muda dan pecinta alam dengan rata-rata kunjungan setiap tahunnya diperkirakan mencapai 15.000 orang. Terdapat tiga jalur pendakian yaitu jalur Linggarjati dan Palutungan di Kab. Kuningan serta jalur Apuy di Kab. Majalengka.</string>
+    <string name="text_desk6"><b>Panorama </b>Panorama alam Gunung Ciremai cukup unik dan variatif serta memiliki nilai estetika yang tinggi seperti pesona sunrise dipuncak Ciremai, hutan alam yang indah, keindahan air terjun di daerah lembah, pemandian alam dan sumber air panas. Wisata alam yang berada di dalam kawasan wilayah Kuningan antara lain Lembah Cilengkrang, Curug sawer, Curug Sabuk (Pajambon), Telaga Remis dan air deras Paniis (Pasawahan), Curug putri (Cigugur)</string>
+    <string name="text_desk7"><b>Bagi </b>Bagi para peziarah/wisatawan budaya, kawasan TNGC banyak memiliki tempat yang bernilai sejarah tinggi dan dikeramatkan oleh masyarakat setempat diantaranya : Situ Sangiang (Banjaran), Gunung Pucuk (Argapura), Sumur Tujuh (Cibulan), Sumur Cikayan (Pasawahan), dan Situ Ayu Lintang (Mandirancan).</string>
+
+    <!--Kebun Raya Kuningan-->
+    <string name="Latar">Latar Belakang</string>
+    <string name="Ruang">Ruang Lingkup</string>
+    <string name="Luas">Luas dan Letak</string>
+    <string name="Struktur">Struktur Geografis</string>
+    <string name="Tumbuhan">Tumbuhan dan Satwa</string>
+    <string name="Akses">Aksesbilitas dan Komunikasi</string>
+    <string name="Potensi">Potensi Wisata</string>
+
+    <string name="text_desk8"><b>Kabupaten </b>Kuningan saat ini tengah mempersiapkan diri untuk menjadi Kabupaten Konservasi.
+        Kesadaran konservasi kabupaten tersebut telah mendorong pula untuk menangkap peluang pemanfaatan sumber daya hayati melalui pembangunan kebun raya.
+        Keberhasilan Kebun Raya Bogor sebagai lembaga konservasi, penelitian, penunjang pendidikan, dan pariwisata,
+        telah menumbuhkan keinginan Kabupaten Kuningan menyelaraskan pembangunan wilayahnya dengan membangun Kebun Raya Kuningan (KRK).
+        </string>
+    <string name="text_desk9"><b>Tapak </b>Kebun Raya Kuningan adalah bagian dari areal bekas HGU perkebunan PT Yunawati yang terletak di desa Padabeunghar, Kecamatan Pasawahan, Kabupaten Kuningan, Provinsi Jawa Barat (lihat gambar). Berbatasan dengan Taman Nasional Gunung Ciremai yang ditetapkan oleh Menteri Kehutanan tahun 2004, areal yang diperuntukan KRK seluas 146 hektar dan lingkup wilayah perencanaan adalah bagian yang telah dipetakan konturnya oleh BAKOSURTANAL seluas 79,4 hektar.</string>
+    <string name="text_desk10"><b>Pada </b>awalnya lahan yang dialokasikan untuk KRK adalah areal bekas HGU perkebunan PT Yunawati seluas 171 hektar.
+        Lahan yang berbatasan dengan Taman Nasional Gunung Ceremai (TNGC) tersebut sebagian, yaitu seluas 10,3 hektar,
+        adalah tanah desa dan masyarakat yang diolah untuk sawah. Berkaitan dengan kebijakan kebun raya yang mensyaratkan pengelolaan sangat intensif dengan tujuan untuk mengoptimasikan fungsinya,
+        pemerintah daerah Kabupaten Kuningan akan mengganti tanah desa dan masyarakat dengan sebagian lahan yang diperuntukan KRK.
+        Kawasan KRK terletak di desa Padabeunghar, Kecamatan Pasawahan, Kabupaten Kuningan, Provinsi Jawa Barat.</string>
+    <string name="text_desk11"><b>Batuan </b>Batuan kawasan KRK termasuk dalam jenis vulkanik yang relatif labil,
+        khususnya pada daerah yang kurang vegetasi penutup tanah dan tepian aliran air yang terjal.
+        Jenis tanah termasuk asosiasi regosol dan endapan aluvial yang umumnya miskin hidrogen, unsur hara dan organik rendah.
+        Permeabilitas tanah cukup tinggi, daya menahan air rendah dan peka terhadap bahaya erosi.
+        Topografi KRK berbukit-bukit dengan ketinggian mulai dari 490 dpl. sampai dengan 870 dpl.
+    </string>
+    <string name="text_desk12"><b>Hampir </b>tidak ada tegakan yang berarti di kawasan KRK. Kebun Raya Cibodas telah melakukan identifikasi dan inventarisasi tumbuhan di KRK.
+        Komposisi tanaman di kawasan KRK yang teridentifikasi adalah 43 Suku, 81 Marga, 93 Jenis.
+        Kawasan didominasi oleh tanaman aneka jenis pisang (Musa spp.) dan sedikit tanaman tegakan yang menghasilkan buah-buahan.
+    </string>
+    <string name="text_desk13"><b>Jarak </b>KRK dari ibu kota kabupaten relatif dekat,yaitu sekitar 39,8 km.
+        Jaringan, kondisi jalan dan transportasi umum menuju KRK cukup baik dan hal ini yang memudahkan penduduk desa melakukan interaksi antar desa dan masyarakat di ibu kota kabupaten.
+        Dua pemancar televisi yang terdapat di desa Padabeunghar, yaitu dari Indosiar dan SCTV,
+        menempatkan desa tersebut dalam jaringan komunikasi yang cukup baik.</string>
+    <string name="text_desk14"><b>Alam </b>merupakan andalan pariwisata kabupaten Kuningan.
+        Sampai dengan tahun 2003, obyek wisata yang memanfaatkan alam dan telah dikembangkan ada 14 buah dan dikelola oleh berbagai lembaga.
+        KRK potensial menjadi obyek wisata alam utama kabupaten Kuningan, bahkan destinasi ecotourism yang strategis, di masa mendatang.
+        Pengembangan yang terintegrasi dengan obyek-obyek wisata lainnya, akan menempatkan Kabupaten Kuningan dalam peta pariwisata provinsi Jawa Barat yang layak dipertimbangkan di masa datang.</string>
+    <string name="text_desk15"><b>Potensi </b>hutan kawasan Gunung Tilu sangat penting bagi kehidupan masyarakat sekitarnya.
+        Kawasan ini merupakan lokasi hulu tiga sungai besar di wilayah Kuningan timur yakni sungai-sungai Cltaal, Cijangkelok dan Cikaro.
+        Hutan-hutan di wilayah ini, meski bukan lagi hutan yang belum terjamah, kebanyakan masih berupa hutan alam yang berstatus hutan lindung.
+        Keanekaragaman hayati yang dikandungnya adalah luar biasa, mengingat bahwa lingkungan di sekitarnya merupakan wilayah pemukiman yang relatif padat.
+        hutan kawasan Gunung Tilu sangat penting bagi kehidupan masyarakat sekitarnya.
+    </string>
+    <string name="text_desk16"><b>Kabupaten </b>Kuningan memiliki kondisi kawasan dan sumber daya alam yang cukup melimpah salah satunya berupa gunung tertinggi di Jawa Barat yaitu Gunung Ciremai yang terletak pada ketinggian 3.078 meter dari permukaan laut dan merupakan salah satu ekosistem pegunungan yang memiliki keunikan karena merupakan gunung yang terletak tidak terlalu jauh dengan laut.
+    Topografi Kawasan Gunung Ciremai pada umumnya berombak, berbukit, dan bergunung dengan membentuk kerucut di bagian puncak.
+        Kondisi alam Gunung Ciremai sangat disukai oleh semua lapisan masyarakat baik untuk berekreasi sebagai kawasan wisata alam, untuk berolah raga pendakian, maupun pendidikan dan kelestarian budaya eagar alam. Mereka hadir dari berbagai kota dan daerah, kelompok masyarakat muda maupun kelompok umur tua dengan berbagai tujuan yang berbeda.
+    </string>
+
+    <!--Seni-->
+    <string name="Sapton">Sapton dan Panahan</string>
+    <string name="Seren">Seren Taun</string>
+    <string name="Kawin">Kawin Cai</string>
+    <string name="Pesta">Pesta Dadung</string>
+    <string name="Sintren">Sintren</string>
+    <string name="Cingcowong">Cingcowong</string>
+
+    <string name="text_desk17"><b>Secara </b>etimologi dan historis, bahwa kegiatan Sapton dan Panahan Tradisional adalah acara rutin setiap hari sabtu setelah kegiatan serba raga (sidang) yang dilaksanakan disekitar istana kerajaan Kajene (Kuningan) dan mempunyai makna yang dalam seperti heroisme, ketangkasan berkuda dan panahan dalam bela negara serta kebersamaan antara pemerintah dengan rakyatnya. Dalam upaya  promosi kepariwisataan  daerah dan pelestarian nilai-nilai budaya tradisional daerah serta memeriahkan hari  jadi  Kuningan,
+        setiap tahun pada bulan September diselenggarakan Saptonan dan Panahan Tradisional.</string>
+    <string name="text_desk18"><b>Upacara </b>Seren taun merupakan upacara masyarakat agararis adalah penyerahan hasil panen yang diterima pada tahun yang akan berlalu serta salah satu media dalam mengungkapkan rasa syukur kepada Tuhan Yang Maha Esa atas segala berkah yang telah diterima seiring dengan harapan agar dimasa yang akan datang,
+        hasil panen seluruh anggota masyarakat dapat lebih melimpah lagi.
+        Penyelenggaraan dimulai dengan upacara ngajayuk (menyambut) pada tanggal 18 Rayagung,
+        kemudian dilanjutkan pada tanggal 22 Rayagung dengan upacara pembukaan padi sebagai puncak acara,
+        dengan disertai beberapa kesenian tradisional masyarakat agraris sunda tempo dulu, seperti ronggeng gunung, seni klasik tarawangsa, gending karesmen, tari bedaya, upacara adat ngareremokeun dari masyarakat kanenes baduy, goong renteng, tari buyung, angkulung buncis doodog lonjor, reog, kacapi suling dan lain-lain yang mempunyai makna dan arti tersendiri, khususnya bagi masyarakat sunda.</string>
+    <string name="text_desk19"><b>Upacara </b>Adat Kawin Cai merupakan tradisi masyarakat Desa Babakanmulya Kecamatan Jalakasana Kabupaten Kuningan untuk memohon air/turun hujan untuk mengairi lahan pertaniannya serta kebutuhan hidup lainnya,
+        dilaksanakan apabila terjadi kemarau panjang atau sangat sulit untuk mendapat air antar bulan September,
+        dengan mengambil lokasi searah intinya disumber mata air telaga balong Tirta Yarta pada malam Jum`at Kliwon yang pada pelaksanaannya selain dihadiri dan diikuti oleh pamong desa.
+        Tokoh masyarakat dan masyarakat desa setempat juga oleh masyarakat desa tetangga yang lahan pertaniannya terairi atau memanfaatkan air yang berasal dari sumber mata air telaga/Balong Dalem Tirta Yarta.
+        Selesai berdo`a punduh/sesepuh desa mencampurkan air yang diambil dari mata air telaga/ Balong Dalem Tirta Yarta dengan air yang diambil dari mata air Cikembulan (Cibulan),
+        inilah istilah yang dipakai masyarakat sebagai Upacara Adat Kawin Cai yang intinya mengambil barokah air dari dua sumber mata air.</string>
+    <string name="text_desk20"><b>Seperti </b>lazimnya kesenian tradisional lainnya kesenian ini tumbuh dan berkembang secara turun temurun sejak abad ke XVIII.
+        Kesenian ini lahir di kalangan Budak Angon (Pengembala) yang intinya mengadakan syukuran setelah panen menjelang musim tanam tiba, sekitar bulan September.
+        Dikatakan Pesta Dadung karena media yang digunakan dalam upacara yang sakral tersebut menggunakan Dadung (tali pengikat leher Kerbau atau Sapi).</string>
+    <string name="text_desk21"><b>Sintren </b>adalah jenis kesenian tradisional yang tumbuh dan berkembang secara turun temurun sejak tahun 1957.
+        sintren berasal dari kata sasantrian yang pada mulanya kesenian ini adalah merupakan seni hiburan rakyat yang sering di tampilkan pada sore hari sambil melepas lelah setelah seharian bekerja keras di sawah.
+        Pada pertunjukannya peran sintren harus dibawakan oleh seorang gadis yang masih suci (belum adil balig).
+        Begitu pula dengan pawang sintren tidak boleh diperankan oleh orang sembarangan,
+        akan tetapi harus dibawakan oleh sesepuh semacam kiyai sehingga peran sintren yang sudah di ikat dalam kurungan akan dapat berubah memakai pakaian sintren dalam keadaan Transparan.</string>
+    <string name="text_desk22"><b>Cingcowong  </b>adalah salah satu Upacara ritual  untuk meminta hujan (zaman dulu).
+        upacara ini dilakukan pada saat musim kemarau panjang 3 bulan.
+        tardisi awal Cingcowong atau upacara ritual ini dipercayi oleh masyarakat khususnya Kecamatan Luragung.
+        setiap datang kemarau upacara ritual Cingcowong selalu dilaksanakan agar  lahan pertanian mereka terhindar dari kemarau dan turrun hujan.</string>
+
+    <string name="Versi">v1.0</string>
+    <string name="appDesc">Aplikasi ini berisikan informasi mengenai kota kuningan meliputi sejarah, kebudayaan, dan lebih menekankan konservasi alam yang ada di Kuningan.
+    Terima Kasih kepada Pemerintah Daerah Kabupaten Kuningan, dan berbagai pihak yang turut membantu terbentuknya aplikasi ini.</string>
+    <string name="artikel">Sumber Artikel</string>
+    <string name="appFor">
+       Dibuat sebagai Syarat Penulisan Ilmiah.
+   </string>
+    <string name="Prodi">Program Studi : Teknik Informatika</string>
+    <string name="NPM">50415528</string>
+    <string name="developer">Developer</string>
+    <string name="developerName">Alghifari Fikri Santoso</string>
+    <string name="developerEmail">alghi77@gmail.com</string>
+    <string name="sumberArtikel">https://www.kuningankab.go.id/</string>
+
+    <string name="Musik">Musik</string>
+    <string name="Video">Video</string>
+
+    <string name="Tandang">Tandang Maju Tanding</string>
+    <string name="Bersih">Bebersih (Padus Smantika)</string>
+
+    <string name="Puncak">Puncak Ciremai</string>
+    <string name="Kebunraya">Kebun Raya Kuningan</string>
+    <string name="Tamannasional">TNGC</string>
+    <string name="Saptonan">Saptonan</string>
+    <string name="Serentaun">Seren Taun</string>
+
+
+</resources>

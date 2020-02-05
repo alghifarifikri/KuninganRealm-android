@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="ml.alghifarifikri.www.kuninganrealm">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:noHistory="true"
+        android:screenOrientation="portrait"
+        android:theme="@style/AppTheme.NoActionBar">
+    android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".SplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".MainActivity"/>
+        <activity android:name=".About"/>
+        <activity android:name=".Konservasi"/>
+        <activity android:name=".Kuningan"/>
+        <activity android:name=".Seni"/>
+        <activity android:name=".Sejarah"/>
+        <activity android:name=".Letak"/>
+        <activity android:name=".FloraFauna"/>
+        <activity android:name=".Flora"/>
+        <activity android:name=".Fauna"/>
+        <activity android:name=".Akses"/>
+        <activity android:name=".Alam"/>
+        <activity android:name=".Budaya"/>
+        <activity android:name=".GunungCiremai"/>
+        <activity android:name=".GunungTilu"/>
+        <activity android:name=".Kebun"/>
+        <activity android:name=".LatarBelakang"/>
+        <activity android:name=".Pendakian"/>
+        <activity android:name=".Potensi"/>
+        <activity android:name=".Struktur"/>
+        <activity android:name=".RuangLingkup"/>
+        <activity android:name=".Tumbuhan"/>
+        <activity android:name=".Taman"/>
+        <activity android:name=".Wisata"/>
+        <activity android:name=".Luas"/>
+        <activity android:name=".Sapton"/>
+        <activity android:name=".Seren"/>
+        <activity android:name=".Kawin"/>
+        <activity android:name=".Sintren"/>
+        <activity android:name=".Pesta"/>
+        <activity android:name=".Cingcowong"/>
+        <activity android:name=".Musik"/>
+        <activity android:name=".Bersih"/>
+        <activity android:name=".Tandang"/>
+        <activity android:name=".Krk"/>
+        <activity android:name=".Saptonan"/>
+        <activity android:name=".Serentaun"/>
+        <activity android:name=".FilterListActivity"/>
+        <activity android:name=".VideoAlam"/>
+        <activity android:name=".VideoBudaya"/>
+        <activity android:name=".VideoPendakian"/>
+        <activity android:name=".VideoFauna"/>
+        <activity android:name=".VideoFlora"/>
+        <activity android:name=".VideoCingcowong"/>
+        <activity android:name=".VideoSintren"/>
+        <activity android:name=".VideoGunungCiremai"/>
+        <activity android:name=".VideoGunungTilu"/>
+        <activity android:name=".VideoKawin"/>
+        <activity android:name=".VideoPesta"/>
+
+    </application>
+
+</manifest>
